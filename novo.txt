@@ -4,3 +4,4 @@ teste3
 novo3
 sou uma nova versao
 sou uma nova versao 2.0
+branch staging
